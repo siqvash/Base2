@@ -5,3 +5,4 @@ Add Base Network introduction
 Base helps reduce transaction costs.
 Add low fee note
 Added a note about lower fees.
+Added Base application information.
